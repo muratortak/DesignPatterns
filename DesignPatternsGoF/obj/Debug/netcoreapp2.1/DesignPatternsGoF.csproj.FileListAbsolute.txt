@@ -1,0 +1,11 @@
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\DesignPatternsGoF\bin\Debug\netcoreapp2.1\DesignPatternsGoF.deps.json
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\DesignPatternsGoF\bin\Debug\netcoreapp2.1\DesignPatternsGoF.runtimeconfig.json
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\DesignPatternsGoF\bin\Debug\netcoreapp2.1\DesignPatternsGoF.runtimeconfig.dev.json
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\DesignPatternsGoF\bin\Debug\netcoreapp2.1\DesignPatternsGoF.dll
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\DesignPatternsGoF\bin\Debug\netcoreapp2.1\DesignPatternsGoF.pdb
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\DesignPatternsGoF\obj\Debug\netcoreapp2.1\DesignPatternsGoF.csprojAssemblyReference.cache
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\DesignPatternsGoF\obj\Debug\netcoreapp2.1\DesignPatternsGoF.csproj.CoreCompileInputs.cache
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\DesignPatternsGoF\obj\Debug\netcoreapp2.1\DesignPatternsGoF.AssemblyInfoInputs.cache
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\DesignPatternsGoF\obj\Debug\netcoreapp2.1\DesignPatternsGoF.AssemblyInfo.cs
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\DesignPatternsGoF\obj\Debug\netcoreapp2.1\DesignPatternsGoF.dll
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\DesignPatternsGoF\obj\Debug\netcoreapp2.1\DesignPatternsGoF.pdb

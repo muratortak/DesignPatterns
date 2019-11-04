@@ -1,0 +1,11 @@
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\Factories\bin\Debug\netcoreapp2.1\Factories.deps.json
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\Factories\bin\Debug\netcoreapp2.1\Factories.runtimeconfig.json
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\Factories\bin\Debug\netcoreapp2.1\Factories.runtimeconfig.dev.json
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\Factories\bin\Debug\netcoreapp2.1\Factories.dll
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\Factories\bin\Debug\netcoreapp2.1\Factories.pdb
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\Factories\obj\Debug\netcoreapp2.1\Factories.csproj.CoreCompileInputs.cache
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\Factories\obj\Debug\netcoreapp2.1\Factories.AssemblyInfoInputs.cache
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\Factories\obj\Debug\netcoreapp2.1\Factories.AssemblyInfo.cs
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\Factories\obj\Debug\netcoreapp2.1\Factories.dll
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\Factories\obj\Debug\netcoreapp2.1\Factories.pdb
+C:\Users\Murat Ortak\source\repos\DesignPatternsGoFProject\Factories\obj\Debug\netcoreapp2.1\Factories.csprojAssemblyReference.cache
